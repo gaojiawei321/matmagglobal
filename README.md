@@ -29,7 +29,7 @@ Matmagglobal can be easily set up. Uncompress the Matlab code and add all the fo
 
 Coordinate, unit, and timing range are provided in annotation 
 
-bpcsph = 【Br Bt Bp】 ,which is B_r (radial), B_θ (southward), and B_φ (eastward). The radius of Mars was set to 3393.5 km.
+bpcsph = 【Br Bt Bp】 ,which is B_r (radial), B_θ (southward), and B_φ (eastward). The radius of Earth is set to 6371.2 km.
 
 ## pymagglobal
 
