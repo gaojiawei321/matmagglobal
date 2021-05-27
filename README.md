@@ -19,8 +19,6 @@ GGF100k
 
 The accuracy validation is made by Jiawei Gao, E-mail gaojw@mail.iggcas.ac.cn
 
-###
-
 ## Installation
 
 Matmagglobal can be easily set up. Uncompress the Matlab code and add all the folders to Matlab path. Then, try (ggf)_try for more details. 
