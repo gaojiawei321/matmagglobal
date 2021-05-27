@@ -4,7 +4,7 @@
 
 Matmagglobal is a Matlab program package to calculate paleomagnetic field model
 
-This program is translated from pymagglobal, nothing now is added, but rewrite it in native Matlab code.
+This program is translated from pymagglobal, nothing new is added, but rewrite it in native Matlab code.
 
 Following model is included:
 
