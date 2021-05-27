@@ -1,6 +1,6 @@
 # matmagglobal
 
-![LOGO](/7k2_750.jpg)
+![LOGO](/LSM_-40ka.jpg)
 
 Matmagglobal is a Matlab program package calculate paleomagnetic field model
 
