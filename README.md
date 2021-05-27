@@ -1,5 +1,6 @@
 # matmagglobal
 
+![LOGO](Figure/figure1.png)
 
 Matmagglobal is a Matlab program package calculate paleomagnetic field model
 
@@ -13,7 +14,7 @@ The accuracy validation is made by Jiawei Gao, E-mail gaojw@mail.iggcas.ac.cn
 
 ###
 
-Installation
+## Installation
 
 Matmagglobal can be easily set up. Uncompress the Matlab code and add all the folders to Matlab path. Then, try (ggf)_try for more details. 
 
@@ -36,7 +37,7 @@ Data files are licensed under CC-BY 4.0.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-References
+## References
 
 Jack00
 Jackson, A., A. R. T. Jonkers and M. R. Walker (2000): Four centuries of geomagnetic secular variation from historical records. Phil. Trans. R. Soc. Lond. A 358, 957–990
