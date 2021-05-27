@@ -1,6 +1,6 @@
 # matmagglobal
 
-![LOGO](Figure/figure1.png)
+![LOGO](7k2_750.tiff)
 
 Matmagglobal is a Matlab program package calculate paleomagnetic field model
 
@@ -20,7 +20,7 @@ Matmagglobal can be easily set up. Uncompress the Matlab code and add all the fo
 
 Coordinate, unit, and timing range are provided in annotation
 
-###
+## pymagglobal
 
 
 This program is a transition from pymagglobal, nothing now is added.
@@ -33,9 +33,9 @@ pymagglobal is free software: you can redistribute it and/or modify it under the
 
 You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/. 
 
-Data files are licensed under CC-BY 4.0. 
+## licensed 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Data files are licensed under CC-BY 4.0. 
 
 ## References
 
@@ -59,9 +59,5 @@ Korte, M., M. C. Brown, S. Panovska and I. Wardinski (2019): Robust characterist
 
 Pano18
 Panovska, S., C. G. Constable and M. Korte (2018): Extending global continuous geomagnetic field reconstructions on timescales beyond human civilization. Geochem. Geophys. Geosys., 19, 4757-4772. doi:10.1029/2018GC007966
-
-
-
-
 
 
