@@ -17,7 +17,8 @@ ARCH10k.1
 LSMOD.2 
 GGF100k
 
-Matmagglobal is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation
+Matmagglobal is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation.
+
 Matmagglobal is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
 
 The accuracy validation is made by Jiawei Gao, E-mail gaojw@mail.iggcas.ac.cn
