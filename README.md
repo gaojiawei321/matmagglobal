@@ -27,7 +27,9 @@ The accuracy validation is made by Jiawei Gao, E-mail gaojw@mail.iggcas.ac.cn
 
 Matmagglobal can be easily set up. Uncompress the Matlab code and add all the folders to Matlab path. Then, try (ggf)_try for more details. 
 
-Coordinate, unit, and timing range are provided in annotation
+Coordinate, unit, and timing range are provided in annotation 
+
+bpcsph = 【Br Bt Bp】 ,which is B_r (radial), B_θ (southward), and B_φ (eastward). The radius of Mars was set to 3393.5 km.
 
 ## pymagglobal
 
