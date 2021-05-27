@@ -2,13 +2,20 @@
 
 ![LOGO](/LSM_-40ka.jpg)
 
-Matmagglobal is a Matlab program package calculate paleomagnetic field model
+Matmagglobal is a Matlab program package to calculate paleomagnetic field model
 
-This program is a transition from pymagglobal, nothing now is added, but rewrite it in native Matlab code.
+This program is translated from pymagglobal, nothing now is added, but rewrite it in native Matlab code.
 
 Following model is included:
 
-gufm1 arhimag1k pfm9k.1a HFM.OL1.A1 CALS10k.2 ARCH10k.1 LSMOD.2 GGF100k
+gufm1 
+arhimag1k 
+pfm9k.1a 
+HFM.OL1.A1 
+CALS10k.2 
+ARCH10k.1 
+LSMOD.2 
+GGF100k
 
 The accuracy validation is made by Jiawei Gao, E-mail gaojw@mail.iggcas.ac.cn
 
