@@ -1,5 +1,7 @@
 # matmagglobal
 
+Note legendre_schmidt_all is in /GGF/ add the folders to Matlab path
+
 ![LOGO](/LSM_-40ka.jpg)
 
 Matmagglobal is a Matlab program package to calculate paleomagnetic field model
